@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I'm a barista, bartender and do magic tricks.
 -->
 
+🔭 I’m currently working on my fullstack web development skills by attending to Le Wagon Bootcamp.
+
+😄 Pronouns: He/His/Him
+
+⚡ Fun fact: I'm a barista, bartender and do magic tricks.
+
 <h2><strong>Tech Stack</strong></h2>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
