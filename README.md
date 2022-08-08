@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my fullstack web development skills by attending to Le Wagon Bootcamp.
 <!-- 😄 Pronouns: He/His/Him -->
-⚡ Fun fact: I'm a ☕barista, 🍸bartender and do 🪄magic tricks.
+⚡ Fun fact: I'm a ☕barista, 🍸bartender, I do 🪄magic tricks and love boardgames.
 
 <h2><strong>Tech Stack</strong></h2>
 
