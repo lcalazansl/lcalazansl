@@ -9,11 +9,14 @@
 
 - 💬 Ask me about **Ruby on Rails, HTML, SCSS**
 
-- 📫 How to reach me **contact@lluz.dev**
+- 📫 How to reach me: **contact@lluz.dev**
 
 - ⚡ Fun fact: I like cycling, coffee and boardgames.
 
 - 😄 Pronouns: He/His/Him
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/lcalazansl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lcalazansl" height="30" width="40" /></a>
 
 <h2 align="left">Languages and Tools:</h2>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
