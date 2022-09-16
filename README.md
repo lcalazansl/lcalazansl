@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby on Rails, HTML, SCSS**
 
-- 📫 How to reach me: **contact@lluz.dev**
+- 📫 How to reach me: **lucas@calazansluz.com**
 
 - ⚡ Fun fact: I like cycling, coffee and boardgames.
 
