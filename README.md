@@ -3,11 +3,11 @@
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **React and improving my JS knowledge**
+- 🌱 I’m currently studying **node.JS and React.JS**
 
-- 👨‍💻 All of my projects are available at [lluz.dev](lluz.dev)
+- 👨‍💻 All of my projects are available at [lluz.dev](https://lluz.dev)
 
-- 💬 Ask me about **Ruby on Rails, HTML, SCSS**
+- 💬 Ask me about **Ruby on Rails, HTML, SCSS and JavaScript**
 
 - 📫 How to reach me: **lucas@calazansluz.com**
 
