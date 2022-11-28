@@ -3,7 +3,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently studying **node.JS and React.JS**
+- 🌱 I’m currently studying **JavaScript**
 
 - 👨‍💻 All of my projects are available at [lluz.dev](https://lluz.dev)
 
