@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Fullstack Web Developer in Amsterdam</h3>
+<h1 align="center">👋 Hi, I'm Lucas</h1>
+<h3 align="center">Ruby | Web Developer in Amsterdam</h3>
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently studying **JavaScript**
+- 🌱 I’m currently studying **Kibana, GraphQL and React**
 
 - 👨‍💻 All of my projects are available at [lluz.dev](https://lluz.dev)
 
-- 💬 Ask me about **Ruby on Rails, HTML, SCSS and JavaScript**
+- 💬 Ask me about **Ruby on Rails, HTML, SCSS**
 
 - 📫 How to reach me: **lucas@calazansluz.com**
 
