@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi, I'm Lucas</h1>
-<h3 align="center">Ruby | Web Developer in Amsterdam</h3>
 
-<h3 align="left">About me</h3>
+<h3 align="center">@lcalazansl | @lucaslight</h3>
+<h3 align="center">Ruby Engineer @ Fuga in Amsterdam</h3>
 
-- 🌱 I’m currently studying **Kibana, GraphQL and React**
-
-- 👨‍💻 All of my projects are available at [lluz.dev](https://lluz.dev)
-
-- 💬 Ask me about **Ruby on Rails, HTML, SCSS**
-
-- 📫 How to reach me: **lucas@calazansluz.com**
-
-- ⚡ Fun fact: I like cycling, coffee and boardgames.
+<h2 align="left">About me</h2>
 
 - 😄 Pronouns: He/His/Him
 
-<h3 align="left">Connect with me</h3>
+- 👨‍💻 Find a summary of my projects at [lluz.dev](https://lluz.dev)
+
+- 💬 Ask me about **Ruby, HTML, CSS, bash**
+
+- 👀 I’m interested in cycling, coffee, terminal wizardry and board games.
+
+- 📫 How to reach me: **lucas@calazansluz.com**
+
+<h2 align="left">Connect with me</h2>
 <a href="https://linkedin.com/in/lcalazansl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lcalazansl" height="30" width="40" /></a>
 
 <h2 align="left">Languages and Tools:</h2>
